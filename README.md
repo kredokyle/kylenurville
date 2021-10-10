@@ -1,4 +1,4 @@
-<p>hey 👋🏼 i'm <a href='https://github.com/kylenurville'>@kylenurville</a> and i'm caffeinated</p>
+<p>hey 👋🏼 i'm caffeinated except on sundays</p>
 <p>currently learning laravel</p>
 🔗 <a href='https://www.linkedin.com/in/kylenurville/'>linkedin</a>
 📫 <a href='mailto:kylenurvillejaham@gmail.com'>personal</a>

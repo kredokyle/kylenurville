@@ -1,4 +1,4 @@
-<p>hey 👋🏼 i'm caffeinated daily except sundays</p>
+<p>hey 👋🏼  i'm caffeinated daily except sundays</p>
 <p>currently learning laravel</p>
 🔗 <a href='https://www.linkedin.com/in/kylenurville/'>linkedin</a>
 📫 <a href='mailto:kylenurvillejaham@gmail.com'>personal</a>
